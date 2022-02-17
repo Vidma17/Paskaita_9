@@ -1,0 +1,392 @@
+body {
+    font-family: arial;
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+
+.content-orange-1 {
+    font-size: 15px;
+    height: 80px;
+    background-color: orange;
+    margin: 10px 0px 10px 0px;
+}
+
+.content-orange-2 {
+    font-size: 15px;
+    height: 80px;
+    background-color: orange;
+    margin: 10px 0px 10px 0px;
+}
+
+.content-yellow {
+    font-size: 15px;
+    height: 100px;
+    background-color: yellow;
+    margin: 30px 0px 30px 0px;
+}
+
+.content-blue-1 {
+    font-size: 15px;
+    height: 150px;
+    background-color: blue;
+    margin: 10px 0px 10px 0px;
+}
+
+.content-blue-2 {
+    font-size: 15px;
+    height: 150px;
+    background-color: blue;
+    margin: 10px 0px 10px 0px;
+}
+
+.content-blue-3 {
+    font-size: 15px;
+    height: 150px;
+    background-color: blue;
+    margin: 10px 0px 10px 0px;
+}
+
+.content-grey-1 {
+    font-size: 15px;
+    height: 150px;
+    background-color: grey;
+    margin: 30px 0px 10px 0px;
+}
+
+.content-grey-2 {
+    font-size: 15px;
+    height: 150px;
+    background-color: grey;
+    margin: 10px 0px 10px 0px;
+}
+
+.content-grey-3 {
+    font-size: 15px;
+    height: 150px;
+    background-color: grey;
+    margin: 10px 0px 10px 0px;
+}
+
+.content-grey-4 {
+    font-size: 15px;
+    height: 150px;
+    background-color: grey;
+    margin: 10px 0px 10px 0px;
+}
+
+@media screen and (min-width: 320px) {
+    body {
+        padding: 10px;
+    }
+    
+    .content-orange-1 {
+        font-size: 15px;
+        height: 80px;
+        background-color: orange;
+        margin: 10px 0px 10px 0px;
+    }
+    
+    .content-orange-2 {
+        font-size: 15px;
+        height: 80px;
+        background-color: orange;
+        margin: 10px 0px 10px 0px;
+    }
+    
+    .content-yellow {
+        font-size: 15px;
+        height: 100px;
+        background-color: yellow;
+        margin: 30px 0px 30px 0px;
+    }
+
+    .content-blue-1 {
+        font-size: 15px;
+        height: 150px;
+        background-color: blue;
+        margin: 10px 0px 10px 0px;
+    }
+    
+    .content-blue-2 {
+        font-size: 15px;
+        height: 150px;
+        background-color: blue;
+        margin: 10px 0px 10px 0px;
+    }
+    
+    .content-blue-3 {
+        font-size: 15px;
+        height: 150px;
+        background-color: blue;
+        margin: 10px 0px 10px 0px;
+    }
+
+    .content-grey-1 {
+        font-size: 15px;
+        height: 150px;
+        background-color: grey;
+        margin: 30px 0px 10px 0px;
+    }
+    
+    .content-grey-2 {
+        font-size: 15px;
+        height: 150px;
+        background-color: grey;
+        margin: 10px 0px 10px 0px;
+    }
+    
+    .content-grey-3 {
+        font-size: 15px;
+        height: 150px;
+        background-color: grey;
+        margin: 10px 0px 10px 0px;
+    }
+    
+    .content-grey-4 {
+        font-size: 15px;
+        height: 150px;
+        background-color: grey;
+        margin: 10px 0px 10px 0px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    .content-orange-1 {
+        font-size: 15px;
+        height: 80px;
+        background-color: orange;
+        margin: 10px 0px 10px 0px;
+    }
+    
+    .content-orange-2 {
+        font-size: 15px;
+        height: 80px;
+        background-color: orange;
+        margin: 10px 0px 10px 0px;
+    }
+   
+    .content-yellow {
+        font-size: 15px;
+        height: 150px;
+        background-color: yellow;
+        margin: 30px 0px 30px 0px;
+    }
+
+    .content-blue-1 {
+        font-size: 15px;
+        height: 100px;
+        background-color: blue;
+        margin: 10px 0px 10px 0px;
+    }
+    
+    .content-blue-2 {
+        font-size: 15px;
+        height: 100px;
+        background-color: blue;
+        margin: 10px 0px 10px 0px;
+    }
+    
+    .content-blue-3 {
+        font-size: 15px;
+        height: 100px;
+        background-color: blue;
+        margin: 10px 0px 10px 0px;
+    }
+
+    .content-grey-1 {
+        display: none;
+    }
+    
+    .content-grey-2 {
+        display: none;
+    }
+    
+    .content-grey-3 {
+        display: none;
+    }
+    
+    .content-grey-4 {
+        display: none;
+    }
+
+    .block-grey-second {
+        display: flex;
+        justify-content: space-between;
+        flex: 1;
+    }
+    
+    .content-grey-1-second {
+        font-size: 15px;
+        height: 100px;
+        width: 49%;
+        background-color: grey;
+        margin: 30px 0px 10px 0px;
+    }
+    
+    .content-grey-2-second {
+        font-size: 15px;
+        height: 100px;
+        width: 49%;
+        background-color: grey;
+        margin: 30px 0px 10px 0px;
+    }
+    
+    .content-grey-3-second {
+        font-size: 15px;
+        height: 100px;
+        width: 49%;
+        background-color: grey;
+        margin: 10px 0px 10px 0px;
+    }
+    
+    .content-grey-4-second {
+        font-size: 15px;
+        height: 100px;
+        width: 49%;
+        background-color: grey;
+        margin: 10px 0px 10px 0px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        padding: 50px;
+    }
+
+    .block-orange {
+        display: flex;
+        justify-content: space-between;
+        flex: 1;
+    }
+
+    .content-orange-1 {
+        font-size: 15px;
+        height: 100px;
+        width: 50%;
+        background-color: orange;
+        margin: 0px 10px 0px 0px;
+    }
+    
+    .content-orange-2 {
+        font-size: 15px;
+        height: 100px;
+        width: 50%;
+        background-color: orange;
+        margin: 0px 0px 0px 10px;
+    }
+  
+    .content-yellow {
+        font-size: 15px;
+        height: 200px;
+        background-color: yellow;
+        margin: 30px 0px 30px 0px;
+    }
+
+    .block-blue {
+        display: flex;
+        justify-content: space-between;
+        flex: 1;
+    }
+
+    .content-blue-1 {
+        font-size: 15px;
+        height: 150px;
+        width: 33%;
+        background-color: blue;
+        margin: 0px 10px 0px 0px;
+    }
+    
+    .content-blue-2 {
+        font-size: 15px;
+        height: 150px;
+        width: 33%;
+        background-color: blue;
+        margin: 0px 10px 0px 10px;
+    }
+    
+    .content-blue-3 {
+        font-size: 15px;
+        height: 150px;
+        width: 33%;
+        background-color: blue;
+        margin: 0px 0px 0px 10px;
+    }
+
+    .block-grey {
+        display: flex;
+        justify-content: space-between;
+        flex: 1;
+    }
+
+    .block-grey {
+        display: flex;
+        justify-content: space-between;
+        flex: 1;
+    }
+
+    .content-grey-1 {
+        display: inline-block;
+        font-size: 15px;
+        height: 100px;
+        width: 24%;
+        background-color: grey;
+        margin: 30px 10px 10px 0px;
+    }
+    
+    .content-grey-2 {
+        display: inline-block;
+        font-size: 15px;
+        height: 100px;
+        width: 24%;
+        background-color: grey;
+        margin: 30px 10px 10px 10px;
+    }
+    
+    .content-grey-3 {
+        display: inline-block;
+        font-size: 15px;
+        height: 100px;
+        width: 24%;
+        background-color: grey;
+        margin: 30px 10px 10px 10px;
+    }
+    
+    .content-grey-4 {
+        display: inline-block;
+        font-size: 15px;
+        height: 100px;
+        width: 24%;
+        background-color: grey;
+        margin: 30px 0px 10px 10px;
+    }
+
+    .block-grey-second {
+        display: none;
+    }
+
+    .content-grey-1-second {
+        display: none;
+    }
+    
+    .content-grey-2-second {
+        display: none;
+    }
+    
+    .content-grey-3-second {
+        display: none;
+    }
+    
+    .content-grey-4-second {
+        display: none;
+    }
+}
+
+.footer {
+    text-align: center;
+    font-size: 24px;
+    padding: 10px 0;
+}
